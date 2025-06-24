@@ -1,0 +1,19 @@
+From: Amazon Security Team <alert@amaz0n-security.com>
+Subject: Unauthorized Login Attempt Detected
+
+Dear User,
+
+We detected an unauthorized login attempt to your Amazon account from a new device located in Russia.
+
+If this was you, no further action is required.
+
+If this was NOT you, please verify your identity immediately to secure your account:
+
+https://amazon-verification-alerts.com/login
+
+Failure to act within 12 hours will result in account suspension.
+
+Stay safe,  
+Amazon Customer Security
+
+Attachment: account_recovery_form.zip
