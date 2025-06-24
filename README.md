@@ -1,4 +1,4 @@
-# Cybersecurity Internship – Task 2 (Bonus Sample)
+# Cybersecurity Internship – Task 2 
 
 ## Objective
 Analyze a second phishing email example to reinforce threat detection skills and identify more real-world phishing tactics.
@@ -16,7 +16,7 @@ Analyze a second phishing email example to reinforce threat detection skills and
    - Urgent language
    - Dangerous file attachment
    - Generic greeting
-4. Documented my findings in `analysis_report_2.md`.
+4. Documented my findings in `Analysis report.md`.
 
 ---
 
@@ -33,7 +33,7 @@ Analyze a second phishing email example to reinforce threat detection skills and
 | File Name               | Description                                 |
 |-------------------------|---------------------------------------------|
 | `phishing_sample_2.txt` | Fake phishing email pretending to be Amazon |
-| `analysis_report_2.md`  | My analysis of the phishing traits found    |
+| `Analysis report.md`    | My analysis of the phishing traits found    |
 | `README.md`             | Summary of the second analysis task         |
 
 ---
