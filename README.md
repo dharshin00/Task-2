@@ -8,7 +8,7 @@ Analyze a second phishing email example to reinforce threat detection skills and
 ## What I Did
 
 1. Used a new fake phishing email pretending to be from **Amazon Security**.
-2. Saved the sample email in a file named `phishing_sample_2.txt`.
+2. Saved the sample email in a file named `phishing sample.txt`.
 3. Analyzed the email for:
    - Spoofed sender email address
    - Fear-based messaging (social engineering)
@@ -32,7 +32,7 @@ Analyze a second phishing email example to reinforce threat detection skills and
 
 | File Name               | Description                                 |
 |-------------------------|---------------------------------------------|
-| `phishing_sample_2.txt` | Fake phishing email pretending to be Amazon |
+| `phishing sample.txt`   | Fake phishing email pretending to be Amazon |
 | `Analysis report.md`    | My analysis of the phishing traits found    |
 | `README.md`             | Summary of the second analysis task         |
 
